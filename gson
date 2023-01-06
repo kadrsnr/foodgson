@@ -1,0 +1,310 @@
+[
+  {
+    "meyve": "Elma(Bütün)",
+    "kalori": "47"
+  },
+  {
+    "meyve": "Muz",
+    "Kalori": "151"
+  },
+  {
+    "meyve": "Armut(Bütün)",
+    "kalori": "114"
+  },
+  {
+    "meyve": "Mandalina",
+    "Kalori": "66"
+  },
+  {
+    "meyve": "Kivi",
+    "Kalori": "102"
+  },
+  {
+    "meyve": "Portakal",
+    "Kalori": "88"
+  },
+  {
+    "meyve": "Kiraz",
+    "Kalori": "110"
+  },
+  {
+    "meyve": "Vişne",
+    "Kalori": "115"
+  },
+  {
+    "meyve": "Ayva",
+    "Kalori": "90"
+  },
+  {
+    "meyve": "Avokado",
+    "Kalori": "55"
+  },
+  {
+    "meyve": "Kara Üzüm",
+    "Kalori": "100"
+  },
+  {
+    "meyve": "Böğürtlen",
+    "Kalori": "100"
+  },
+  {
+    "meyve": "Çilek",
+    "Kalori": "110"
+  },
+  {
+    "meyve": "Erik",
+    "Kalori": "117"
+  },
+  {
+    "meyve": "İncir",
+    "Kalori": "130"
+  },
+  {
+    "meyve": "Beyaz Dut",
+    "Kalori": "135"
+  },
+  {
+    "meyve": "Frambuaz",
+    "Kalori": "110"
+  },
+  {
+    "meyve": "Kavun",
+    "Kalori": "75"
+  },
+  {
+    "meyve": "Karpuz",
+    "Kalori": "70"
+  },
+  {
+    "meyve": "Kayısı",
+    "Kalori": "70"
+  },
+  {
+    "meyve": "Yaban Mersini",
+    "Kalori": "88"
+  },
+  {
+    "meyve": "Ananas",
+    "Kalori": "100"
+  },
+  {
+    "meyve": "Nar",
+    "Kalori": "100"
+  },
+  {
+    "meyve": "Nektarin",
+    "Kalori": "75"
+  },
+  {
+    "meyve": "Mango",
+    "Kalori": "95"
+  },
+  {
+    "meyve": "Greyfurt",
+    "Kalori": "90"
+  },
+  {
+    "sebze": "Dereotu",
+    "Kalori": "101"
+  },
+  {
+    "sebze": "Kıvırcık",
+    "Kalori": "50"
+  },
+  {
+    "sebze": "Fasulye",
+    "Kalori": "47"
+  },
+  {
+    "sebze": "Lahana",
+    "Kalori": "50"
+  },
+  {
+    "sebze": "Marul",
+    "Kalori": "40"
+  },
+  {
+    "sebze": "Soğan",
+    "Kalori": "30"
+  },
+  {
+    "sebze": "Patates",
+    "Kalori": "160"
+  },
+  {
+    "sebze": "Brokoli",
+    "Kalori": "30"
+  },
+  {
+    "sebze": "Kereviz",
+    "Kalori": "50"
+  },
+  {
+    "sebze": "Biber(Sivri)",
+    "Kalori": "75"
+  },
+  {
+    "sebze": "Biber(Kırmızı)",
+    "Kalori": "75"
+  },
+  {
+    "sebze": "Bamya",
+    "Kalori": "770"
+  },
+  {
+    "sebze": "Mısır",
+    "Kalori": "96"
+  },
+  {
+    "sebze": "Patlıcan",
+    "Kalori": "85"
+  },
+  {
+    "sebze": "Havuç",
+    "Kalori": "55"
+  },
+  {
+    "sebze": "Bezelye",
+    "Kalori": "50"
+  },
+  {
+    "sebze": "Pırasa",
+    "Kalori": "60"
+  },
+  {
+    "sebze": "Salata",
+    "Kalori": "10"
+  },
+  {
+    "sebze": "Ispanak",
+    "Kalori": "50"
+  },
+  {
+    "sebze": "Kabak",
+    "Kalori": "75"
+  },
+  {
+    "sebze": "Yeşil Soğan",
+    "Kalori": "33"
+  },
+  {
+    "sebze": "Mantar",
+    "Kalori": "47"
+  },
+  {
+    "sebze": "Sarımsak",
+    "Kalori": "100"
+  },
+  {
+    "sebze": "Karalahana",
+    "Kalori": "86"
+  },
+  {
+    "hayvansal": "Beyaz Peynir(1 dilim)",
+    "Kalori": "93"
+  },
+  {
+    "hayvansal": "Kırmızı Et(100 gr)",
+    "Kalori": "120"
+  },
+  {
+    "hayvansal": "Tavuk Göğsü(100 gr)",
+    "Kalori": "110"
+  },
+  {
+    "hayvansal": "Tavuk But(100 gr)",
+    "Kalori": "125"
+  },
+  {
+    "hayvansal": "Tavuk Kanat(100 gr)",
+    "Kalori": "130"
+  },
+  {
+    "hayvansal": "Kaşar Peyniri(1 dilim)",
+    "Kalori": "75"
+  },
+  {
+    "hayvansal": "Ezine Peyniri(1 dilim)",
+    "Kalori": "70"
+  },
+  {
+    "hayvansal": "Çedar(1 porsiyon)",
+    "Kalori": "122"
+  },
+  {
+    "hayvansal": "Pastırma(1 dilim)",
+    "Kalori": "75"
+  },
+  {
+    "hayvansal": "Sucuk",
+    "Kalori": "70"
+  },
+  {
+    "hayvansal": "Salam",
+    "Kalori": "75"
+  },
+  {
+    "hayvansal": "Jambon",
+    "Kalori": "70"
+  },
+  {
+    "hayvansal": "Füme Et",
+    "Kalori": "72"
+  },
+  {
+    "hayvansal": "Sosis",
+    "Kalori": "80"
+  },
+  {
+    "hayvansal": "Yumurta",
+    "Kalori": "72"
+  },
+  {
+    "hayvansal": "Süt(100 ml)",
+    "Kalori": "60"
+  },
+  {
+    "hayvansal": "Hamsi(100 gr)",
+    "Kalori": "120"
+  },
+  {
+    "hayvansal": "Çinekop(100 gr)",
+    "Kalori": "110"
+  },
+  {
+    "hayvansal": "Palamut(100 gr)",
+    "Kalori": "130"
+  },
+  {
+    "hayvansal": "Midye(1 adet)",
+    "Kalori": "77"
+  },
+  {
+    "hayvansal": "Kalamar(1 adet)",
+    "Kalori": "80"
+  },
+  {
+    "hayvansal": "İnek Sütü(100 ml)",
+    "Kalori": "65"
+  },
+  {
+    "hayvansal": "Bal(1 tatlı kaşığı",
+    "Kalori": "30"
+  },
+  {
+    "hayvansal": "Kaymak",
+    "Kalori": "60"
+  },
+  {
+    "yağlar": "Zeytinyağı(1yk)",
+    "Kalori": "100"
+  },
+  {
+    "yağlar": "Ayçiçek Yağı(1yk)",
+    "Kalori": "110"
+  },
+  {
+    "yağlar": "Hindistan Cevizi Yağ(1yk)",
+    "Kalori": "90"
+  }
+]
